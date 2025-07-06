@@ -4,7 +4,7 @@ function preload() {
   // O caminho da imagem aponta para a pasta 'assets' que criaremos no próximo passo.
   // Certifique-se que o nome do arquivo da imagem esteja EXATAMENTE correto,
   // incluindo os espaços e a extensão.
-  fundoWin11 = loadImage('FUNDO WIN 11 WWP     .png');
+  fundoWin11 = loadImage('file:///C:/Users/emart/Downloads/P5-JS/IMAGENS/FUNDO%20WIN%2011%20WWP%20%20%20%20%20.png');
 }
 
 function setup() {
