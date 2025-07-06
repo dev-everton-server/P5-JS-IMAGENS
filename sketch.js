@@ -4,7 +4,7 @@ function preload() {
   // O caminho da imagem aponta para a pasta 'assets' que criaremos no próximo passo.
   // Certifique-se que o nome do arquivo da imagem esteja EXATAMENTE correto,
   // incluindo os espaços e a extensão.
-  fundoWin11 = loadImage('assets/FUNDO WIN 11 WWP     .png');
+  fundoWin11 = loadImage('FUNDO WIN 11 WWP     .png');
 }
 
 function setup() {
